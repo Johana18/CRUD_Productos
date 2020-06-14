@@ -1,9 +1,9 @@
-<div id="deleteProductModal" class="modal fade">
+<div id="deleteExistenciaModal" class="modal fade">
 		<div class="modal-dialog">
 			<div class="modal-content">
-				<form name="delete_product" id="delete_product">
+				<form name="delete_existencia" id="delete_existencia">
 					<div class="modal-header">						
-						<h4 class="modal-title">Eliminar Producto</h4>
+						<h4 class="modal-title">Eliminar Existencias</h4>
 						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 					</div>
 					<div class="modal-body">					
